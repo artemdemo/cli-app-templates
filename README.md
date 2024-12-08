@@ -32,3 +32,6 @@ Wix also offers templates for developers using other development frameworks:
 * [Self-hosted](https://dev.wix.com/apps-templates?filter=self-hosted): Develop and host an app on any platform, and integrate with Wix using the Developers Center.
 
 Learn more about [Wix app templates](https://dev.wix.com/docs/build-apps/get-started/templates/get-started-from-an-app-template) and explore our full [template collection](https://dev.wix.com/apps-templates).
+
+## How to contribute
+
